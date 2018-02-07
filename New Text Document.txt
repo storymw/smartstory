@@ -1,0 +1,92 @@
+
+      
+      <dir class="row">
+
+             
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/snapchat.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;">snapchat++ </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des">”‰«» ‘«  »·”</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/scothman.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;"> scohtman </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des">”‰«» ⁄À„«‰</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+
+
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/twitter.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;">twitter++ </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des"> ÊÌ — »·”</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+
+
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/youtube.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;">youtube++ </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des">ÌÊ ÌÊ»  »·”</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/whatsapp.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;">whatsapp++ </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des">Ê« ”«» »·”</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+
+              <ul>
+                 <li>
+                    <img class="all-imgae" src="imgae/instagram.png" width="70">
+                        <div class="all-info">
+                           <div class="all-title" style="color: #333;">instagram++ </div>
+                            <p></p>
+                             <div style="color:#333;" class="all-des">«‰” ﬁ—«„ »·”</div>
+                            <a class="install-all" href="#">
+                        <i class="fa fa-cloud-download" aria-hidden="true"></i>  À»Ì </a>
+                     </div><hr width="100%">
+                 </li>
+             </ul>
+                 
+
+   
+</dir>
+
+                 
+                 
+
